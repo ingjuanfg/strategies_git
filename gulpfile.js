@@ -1,6 +1,8 @@
 'use strict'
 
 var gulp = require('gulp');
+//this is a test line
+//with comments
 var browserSync = require('browser-sync').create();
 var sass = require('gulp-sass');
 var rename = require('gulp-rename');
